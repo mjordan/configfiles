@@ -1,3 +1,6 @@
+"Turn on syntax highlighting
+syntax on
+
 "Show whitespace at the end of lines.
 :match Error /\s\+$/
 
